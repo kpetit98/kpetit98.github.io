@@ -7,7 +7,7 @@ function creatInc() {
         // cmdb_ci: "95cc8fec1b1a78d048b7da01dd4bcb66",
         u_machine_name: document.querySelector("#infos > table > tbody > tr:nth-child(3) > td:nth-child(2)").innerHTML,
         impact: "3",
-        urgency: (message === "WARNING") ? 4 : 3,
+        urgency: (urgency === "WARNING") ? 4 : 3,
         contact_type: "automation",
         state: "10",
         assignment_group: "284922e213532bc4f9c274c66144b0e6",
