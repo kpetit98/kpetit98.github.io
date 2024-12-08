@@ -1,11 +1,13 @@
 function creatInc() {
+    var urgency = document.querySelector("#omnibus > tbody > tr:nth-child(16) > td:nth-child(2)").innerHTML;
+    
     const queryParams = {
         category: "errormessage",
         subcategory: "job_failure",
         // cmdb_ci: "95cc8fec1b1a78d048b7da01dd4bcb66",
         u_machine_name: document.querySelector("#infos > table > tbody > tr:nth-child(3) > td:nth-child(2)").innerHTML,
         impact: "3",
-        urgency: "3",
+        urgency: (message === "WARNING") ? 4 : 3,
         contact_type: "automation",
         state: "10",
         assignment_group: "284922e213532bc4f9c274c66144b0e6",
