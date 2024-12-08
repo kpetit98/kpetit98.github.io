@@ -1,5 +1,21 @@
 function creatInc() {
-    var urgency = document.querySelector("#omnibus > tbody > tr:nth-child(16) > td:nth-child(2)").innerHTML;
+    const rows = document.querySelectorAll("#omnibus tbody tr");
+    let targetRow = null;
+    let secondCellContent = null;
+    
+    rows.forEach(row => {
+        const firstCell = row.querySelector("td"); 
+        if (firstCell && firstCell.textContent.trim().includes("severity")) {
+            targetRow = row; 
+            
+            const secondCell = row.querySelectorAll("td")[1];
+            if (secondCell) {
+                secondCellContent = secondCell.textContent.trim();
+            }
+        }
+    });
+
+    var urgency = (secondCellContent === "WARNING") ? 4 : 3;
     
     const queryParams = {
         category: "errormessage",
@@ -7,7 +23,8 @@ function creatInc() {
         // cmdb_ci: "95cc8fec1b1a78d048b7da01dd4bcb66",
         u_machine_name: document.querySelector("#infos > table > tbody > tr:nth-child(3) > td:nth-child(2)").innerHTML,
         impact: "3",
-        urgency: (urgency === "WARNING") ? 4 : 3,
+        urgency: urgency,
+        priority: Math.ceil((3 + urgency) / 2),
         contact_type: "automation",
         state: "10",
         assignment_group: "284922e213532bc4f9c274c66144b0e6",
