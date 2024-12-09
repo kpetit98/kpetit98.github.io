@@ -29,7 +29,11 @@ function creatInc() {
         state: "10",
         assignment_group: "284922e213532bc4f9c274c66144b0e6",
         short_description: document.querySelector("#infos > table > tbody > tr:nth-child(1) > td:nth-child(2)").innerHTML.replace(/<\/?b>/g, ''),
-        description: document.querySelector("#titre").innerText
+        description: document.querySelector("#titre").innerText,
+        close_code: "Solved (Permanently)",
+        u_code_area: "validation",
+        u_code_subarea: "no_further_action_taken",
+        caused_by: "e9800e8f13b14780e9593ff18144b008"
     };
 
     const baseUrl = "https://disney.service-now.com";
