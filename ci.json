@@ -1,0 +1,602 @@
+[
+    {
+        "DLP Active Directory": "0ebc0bec1b1a78d048b7da01dd4bcbcc"
+    },
+    {
+        "DLP Administration Suite": "f65c8b2c1b1a78d048b7da01dd4bcb19"
+    },
+    {
+        "DLP Agilysys OnDemand": "10dcc3201b5a78d048b7da01dd4bcb4e"
+    },
+    {
+        "DLP Airship": "170dc3a01b5a78d048b7da01dd4bcb65"
+    },
+    {
+        "DLP API DGE.BOOK DINE": "c8dcc3201b5a78d048b7da01dd4bcb00"
+    },
+    {
+        "DLP Automation Manager NAM2000": "5aac03ec1b1a78d048b7da01dd4bcb3d"
+    },
+    {
+        "DLP Autopartage": "44bcc3ec1b1a78d048b7da01dd4bcbc4"
+    },
+    {
+        "DLP AWS Platform for DLPaap": "2f6cc36c1b1a78d048b7da01dd4bcbd5"
+    },
+    {
+        "DLP B-MACS": "5c9c87ac1b1a78d048b7da01dd4bcbc7"
+    },
+    {
+        "DLP Badgeuses": "9a8c07ac1b1a78d048b7da01dd4bcb14"
+    },
+    {
+        "DLP BIO": "58fc47601b5a78d048b7da01dd4bcb49"
+    },
+    {
+        "DLP BIO Food & Merch": "2bfc0f601b5a78d048b7da01dd4bcbaa"
+    },
+    {
+        "DLP BO XI": "cbdc4b201b5a78d048b7da01dd4bcb53"
+    },
+    {
+        "DLP BOA": "5a9c4bac1b1a78d048b7da01dd4bcbbf"
+    },
+    {
+        "DLP BOOK DINE WEB": "317cc76c1b1a78d048b7da01dd4bcb9b"
+    },
+    {
+        "DLP BPM": "4f5c8b2c1b1a78d048b7da01dd4bcb5e"
+    },
+    {
+        "DLP Bugzilla": "4cfc07601b5a78d048b7da01dd4bcb3c"
+    },
+    {
+        "DLP Bullseye": "bcfc87601b5a78d048b7da01dd4bcbac"
+    },
+    {
+        "DLP CASTEL": "ce9c4bac1b1a78d048b7da01dd4bcb59"
+    },
+    {
+        "DLP CCD": "371dcba01b5a78d048b7da01dd4bcb36"
+    },
+    {
+        "DLP CDS": "bd0d43a01b5a78d048b7da01dd4bcb82"
+    },
+    {
+        "DLP Cisa": "e68c07ac1b1a78d048b7da01dd4bcb48"
+    },
+    {
+        "DLP CISCO PRIME": "6bdc8b201b5a78d048b7da01dd4bcb7b"
+    },
+    {
+        "DLP Clôture des OT (intranet)": "f5accfac1b1a78d048b7da01dd4bcb17"
+    },
+    {
+        "DLP CMS Tridion": "8e6c436c1b1a78d048b7da01dd4bcba2"
+    },
+    {
+        "DLP Credit Card": "0dec0f201b5a78d048b7da01dd4bcbd8"
+    },
+    {
+        "DLP CRO Reporting": "9f5ccb2c1b1a78d048b7da01dd4bcb1a"
+    },
+    {
+        "DLP CRO Spectrum Xorceview": "242d0fa01b5a78d048b7da01dd4bcb2f"
+    },
+    {
+        "DLP Cross File Transfert": "97ac83ec1b1a78d048b7da01dd4bcb2f"
+    },
+    {
+        "DLP CTT Budget": "2b6cc36c1b1a78d048b7da01dd4bcbb9"
+    },
+    {
+        "DLP CTT Forecast": "f46ccf2c1b1a78d048b7da01dd4bcbb3"
+    },
+    {
+        "DLP CTT Paie": "99ac8fac1b1a78d048b7da01dd4bcb84"
+    },
+    {
+        "DLP CTT Saisie Journaliere": "601d87a01b5a78d048b7da01dd4bcb33"
+    },
+    {
+        "DLP CTT Scheduling": "f87c476c1b1a78d048b7da01dd4bcbee"
+    },
+    {
+        "DLP Data Lake": "afbc8bec1b1a78d048b7da01dd4bcbfd"
+    },
+    {
+        "DLP Datamart": "412d4fa01b5a78d048b7da01dd4bcbcc"
+    },
+    {
+        "DLP Dazel": "041d07a01b5a78d048b7da01dd4bcbe9"
+    },
+    {
+        "DLP DGE API.BIO Services": "81dc47201b5a78d048b7da01dd4bcb1b"
+    },
+    {
+        "DLP DGE API.DigitalKey": "838c07ac1b1a78d048b7da01dd4bcbfe"
+    },
+    {
+        "DLP DGE API.MeetAndGreet": "42accfac1b1a78d048b7da01dd4bcbef"
+    },
+    {
+        "DLP DGE API.MobileOrder": "702d0fa01b5a78d048b7da01dd4bcbdd"
+    },
+    {
+        "DLP DGE API.ORION services": "22cc03201b5a78d048b7da01dd4bcbd4"
+    },
+    {
+        "DLP Digigraph": "c81d47a01b5a78d048b7da01dd4bcb89"
+    },
+    {
+        "DLP DLP-GIS": "d60d83a01b5a78d048b7da01dd4bcb3c"
+    },
+    {
+        "DLP Document Access": "4b9c8bac1b1a78d048b7da01dd4bcbe8"
+    },
+    {
+        "DLP Docuware": "089c87ac1b1a78d048b7da01dd4bcb23"
+    },
+    {
+        "DLP Dollar Universe": "277c0f6c1b1a78d048b7da01dd4bcbe7"
+    },
+    {
+        "DLP DRS": "3d8cc3ac1b1a78d048b7da01dd4bcb20"
+    },
+    {
+        "DLP DUCK": "d77ccb6c1b1a78d048b7da01dd4bcbb0"
+    },
+    {
+        "DLP DW35": "318cc3ac1b1a78d048b7da01dd4bcb1a"
+    },
+    {
+        "DLP DWRH": "042dcba01b5a78d048b7da01dd4bcb96"
+    },
+    {
+        "DLP E-Concur": "b27c4b6c1b1a78d048b7da01dd4bcb37"
+    },
+    {
+        "DLP EBMS": "7fecc3601b5a78d048b7da01dd4bcbea"
+    },
+    {
+        "DLP EG MGME": "5d9c0bac1b1a78d048b7da01dd4bcb70"
+    },
+    {
+        "DLP EnteliWEB": "670dc3a01b5a78d048b7da01dd4bcbca"
+    },
+    {
+        "DLP Enterprise Application Integration (EAI)": "91bc87ec1b1a78d048b7da01dd4bcb80"
+    },
+    {
+        "DLP Epack": "0dfcc7601b5a78d048b7da01dd4bcbb0"
+    },
+    {
+        "DLP eve": "f26cc36c1b1a78d048b7da01dd4bcb07"
+    },
+    {
+        "DLP Exchange On Prem": "39cccfec1b1a78d048b7da01dd4bcb7a"
+    },
+    {
+        "DLP EXCHANGE Online": "efcc83201b5a78d048b7da01dd4bcb4a"
+    },
+    {
+        "DLP Filament": "06cc03201b5a78d048b7da01dd4bcb10"
+    },
+    {
+        "DLP File Server": "35dc87201b5a78d048b7da01dd4bcba8"
+    },
+    {
+        "DLP File Transfer": "935e372adb92f8909aad6d8d1396197e"
+    },
+    {
+        "DLP FLUX EXTERIEUR": "95cc8fec1b1a78d048b7da01dd4bcb66"
+    },
+    {
+        "DLP FuturMaster": "90dcc3201b5a78d048b7da01dd4bcb6e"
+    },
+    {
+        "DLP Galaxy": "44ac0fac1b1a78d048b7da01dd4bcb41"
+    },
+    {
+        "DLP GEA PARK": "d88c03ac1b1a78d048b7da01dd4bcb64"
+    },
+    {
+        "DLP Global Payment Service": "63fc0f601b5a78d048b7da01dd4bcbec"
+    },
+    {
+        "DLP GlobalScape Site": "65bc87ec1b1a78d048b7da01dd4bcbcc"
+    },
+    {
+        "DLP Gold Central Food": "1d7c876c1b1a78d048b7da01dd4bcbed"
+    },
+    {
+        "DLP Gold Central Merchandise": "299c0bac1b1a78d048b7da01dd4bcb84"
+    },
+    {
+        "DLP Gold Infocentre": "e1fc0b601b5a78d048b7da01dd4bcbd4"
+    },
+    {
+        "DLP Gold Stock Food": "8fbc8bec1b1a78d048b7da01dd4bcb3c"
+    },
+    {
+        "DLP Gold Stock Merchandise": "bfcc83201b5a78d048b7da01dd4bcb8b"
+    },
+    {
+        "DLP GTS VISION": "7e6cc36c1b1a78d048b7da01dd4bcb0c"
+    },
+    {
+        "DLP Guest Count": "230dc3a01b5a78d048b7da01dd4bcbe6"
+    },
+    {
+        "DLP Guest CRM Event Publisher": "94bc07ec1b1a78d048b7da01dd4bcb0b"
+    },
+    {
+        "DLP Guest Extended Profile": "df7c0f6c1b1a78d048b7da01dd4bcb43"
+    },
+    {
+        "DLP Hermes": "de7c0b6c1b1a78d048b7da01dd4bcb45"
+    },
+    {
+        "DLP Hospitality": "17dc4b201b5a78d048b7da01dd4bcbab"
+    },
+    {
+        "DLP HR Access S9 (Payroll)": "cbcc43201b5a78d048b7da01dd4bcba5"
+    },
+    {
+        "DLP HR Access S9 (Personal Admin.)": "cb6cc36c1b1a78d048b7da01dd4bcb14"
+    },
+    {
+        "DLP HROS": "eb0dc3a01b5a78d048b7da01dd4bcbc4"
+    },
+    {
+        "DLP IFC8": "6f9ccbac1b1a78d048b7da01dd4bcb61"
+    },
+    {
+        "DLP Imagine&Go": "5a6c436c1b1a78d048b7da01dd4bcbe1"
+    },
+    {
+        "DLP Industrialisation exploitation SCO": "551dc7a01b5a78d048b7da01dd4bcb49"
+    },
+    {
+        "DLP Interface APEX-SAP PM": "dd1dc7a01b5a78d048b7da01dd4bcb4e"
+    },
+    {
+        "DLP Intranet Maintenance": "411d87a01b5a78d048b7da01dd4bcbeb"
+    },
+    {
+        "DLP IRIS": "055c872c1b1a78d048b7da01dd4bcbe8"
+    },
+    {
+        "DLP Jabba GMAO": "895cc72c1b1a78d048b7da01dd4bcb46"
+    },
+    {
+        "DLP JAGUARDS": "78cc4fec1b1a78d048b7da01dd4bcb50"
+    },
+    {
+        "DLP K2": "ac6c8f2c1b1a78d048b7da01dd4bcbf2"
+    },
+    {
+        "DLP Keyring": "b02d0fa01b5a78d048b7da01dd4bcb75"
+    },
+    {
+        "DLP Kitry": "720d83a01b5a78d048b7da01dd4bcbce"
+    },
+    {
+        "DLP Kodak": "96ec03601b5a78d048b7da01dd4bcb30"
+    },
+    {
+        "DLP Kronos WFC": "d19c0bac1b1a78d048b7da01dd4bcb51"
+    },
+    {
+        "DLP Le Club": "80bcc3ec1b1a78d048b7da01dd4bcbc7"
+    },
+    {
+        "DLP Lenny": "e9ec8f201b5a78d048b7da01dd4bcb1a"
+    },
+    {
+        "DLP Lineberty": "7cfc87601b5a78d048b7da01dd4bcb73"
+    },
+    {
+        "DLP Lyreco": "b67c4b6c1b1a78d048b7da01dd4bcb72"
+    },
+    {
+        "DLP NEDI": "3c1d87a01b5a78d048b7da01dd4bcbc5"
+    },
+    {
+        "DLP NETWORK RADIUS": "a7dc8b201b5a78d048b7da01dd4bcb7e"
+    },
+    {
+        "DLP ODB": "01cc4fec1b1a78d048b7da01dd4bcbc5"
+    },
+    {
+        "DLP OLCI": "d18c83ac1b1a78d048b7da01dd4bcb79"
+    },
+    {
+        "DLP Ondemand": "7ffc4f601b5a78d048b7da01dd4bcb34"
+    },
+    {
+        "DLP OnPaie": "cdbc87ec1b1a78d048b7da01dd4bcb15"
+    },
+    {
+        "DLP Opera": "6a8c07ac1b1a78d048b7da01dd4bcb49"
+    },
+    {
+        "DLP Opera R&A": "a40d8f601b5a78d048b7da01dd4bcbd9"
+    },
+    {
+        "DLP OTC": "e77c4f6c1b1a78d048b7da01dd4bcbfe"
+    },
+    {
+        "DLP Package API": "17bc8bec1b1a78d048b7da01dd4bcba9"
+    },
+    {
+        "DLP Package PSE": "6bfc4f601b5a78d048b7da01dd4bcb06"
+    },
+    {
+        "DLP PADS": "7fdccb201b5a78d048b7da01dd4bcb5b"
+    },
+    {
+        "DLP Palot": "cb5c8b2c1b1a78d048b7da01dd4bcbcf"
+    },
+    {
+        "DLP PARCK": "e95cc72c1b1a78d048b7da01dd4bcbd7"
+    },
+    {
+        "DLP Payment System Nepting": "c70dc3a01b5a78d048b7da01dd4bcb50"
+    },
+    {
+        "DLP Phone Directory": "5d0dcf601b5a78d048b7da01dd4bcbc1"
+    },
+    {
+        "DLP Photothèque": "eecc03201b5a78d048b7da01dd4bcbd7"
+    },
+    {
+        "DLP Phototheque Merch": "326c836c1b1a78d048b7da01dd4bcbe7"
+    },
+    {
+        "DLP Plancile": "55fc0b601b5a78d048b7da01dd4bcb57"
+    },
+    {
+        "DLP PLANILOG": "f06ccf2c1b1a78d048b7da01dd4bcbd0"
+    },
+    {
+        "DLP PMOT": "6e5c8b2c1b1a78d048b7da01dd4bcb13"
+    },
+    {
+        "DLP Primavera": "78ec0f201b5a78d048b7da01dd4bcbaf"
+    },
+    {
+        "DLP print fleet": "a0ac0fac1b1a78d048b7da01dd4bcbef"
+    },
+    {
+        "DLP Print servers": "280d8f601b5a78d048b7da01dd4bcbda"
+    },
+    {
+        "DLP QRadar": "a5ec8f201b5a78d048b7da01dd4bcb1c"
+    },
+    {
+        "DLP Radio Manager": "ffdccb201b5a78d048b7da01dd4bcb5c"
+    },
+    {
+        "DLP RAMSES": "990dcf601b5a78d048b7da01dd4bcba5"
+    },
+    {
+        "DLP RDJ": "1cfc47601b5a78d048b7da01dd4bcb76"
+    },
+    {
+        "DLP Redirect Tool": "e39fb4cec3bdda50fb10d21f050131df"
+    },
+    {
+        "DLP Reference & Master Data Management": "5b7ccb6c1b1a78d048b7da01dd4bcbb1"
+    },
+    {
+        "DLP Référentiel": "a0cc0fec1b1a78d048b7da01dd4bcbca"
+    },
+    {
+        "DLP Refund demands": "59dc47201b5a78d048b7da01dd4bcb23"
+    },
+    {
+        "DLP Registre Accessibilite": "11bc87ec1b1a78d048b7da01dd4bcb90"
+    },
+    {
+        "DLP RENT+": "a5cc8fec1b1a78d048b7da01dd4bcb89"
+    },
+    {
+        "DLP Revelation": "cd7c876c1b1a78d048b7da01dd4bcb77"
+    },
+    {
+        "DLP Sage treasury & bank communication": "f17cc76c1b1a78d048b7da01dd4bcb94"
+    },
+    {
+        "DLP Sage Visual Merch": "cc8c03ac1b1a78d048b7da01dd4bcb20"
+    },
+    {
+        "DLP SAP BW": "fb5c4f2c1b1a78d048b7da01dd4bcb82"
+    },
+    {
+        "DLP SAP Finance": "e81d87a01b5a78d048b7da01dd4bcb82"
+    },
+    {
+        "DLP SAP HR": "926c436c1b1a78d048b7da01dd4bcbfd"
+    },
+    {
+        "DLP SAP MDM": "cbcc43201b5a78d048b7da01dd4bcbae"
+    },
+    {
+        "DLP SAP MM": "57dc8b201b5a78d048b7da01dd4bcb03"
+    },
+    {
+        "DLP SAP PM": "a91dc7a01b5a78d048b7da01dd4bcb78"
+    },
+    {
+        "DLP SAP Portal": "db9ccbac1b1a78d048b7da01dd4bcb34"
+    },
+    {
+        "DLP SAP SRM": "549c87ac1b1a78d048b7da01dd4bcb45"
+    },
+    {
+        "DLP SAP VIM OCR": "ed9c0bac1b1a78d048b7da01dd4bcb9d"
+    },
+    {
+        "DLP Seal CA": "1ddc47201b5a78d048b7da01dd4bcb43"
+    },
+    {
+        "DLP SGS": "e06ccf2c1b1a78d048b7da01dd4bcb14"
+    },
+    {
+        "DLP SHOP INVENTORY": "ffacc3ec1b1a78d048b7da01dd4bcb94"
+    },
+    {
+        "DLP ShowOps": "742d0fa01b5a78d048b7da01dd4bcb72"
+    },
+    {
+        "DLP Slim4 Food": "ebecc3601b5a78d048b7da01dd4bcb02"
+    },
+    {
+        "DLP Slim4 MRO": "effc0f601b5a78d048b7da01dd4bcbea"
+    },
+    {
+        "DLP SMA": "40eccb201b5a78d048b7da01dd4bcbbe"
+    },
+    {
+        "DLP SMK": "7aac43ec1b1a78d048b7da01dd4bcb37"
+    },
+    {
+        "DLP SMOCS": "392d8fa01b5a78d048b7da01dd4bcbab"
+    },
+    {
+        "DLP SMSA": "10fc07601b5a78d048b7da01dd4bcbfa"
+    },
+    {
+        "DLP SMT": "aaec03601b5a78d048b7da01dd4bcbcf"
+    },
+    {
+        "DLP Sogebase": "fd2d8fa01b5a78d048b7da01dd4bcbec"
+    },
+    {
+        "DLP SOLID": "fefccb601b5a78d048b7da01dd4bcb73"
+    },
+    {
+        "DLP SPID": "86fc4b601b5a78d048b7da01dd4bcbd7"
+    },
+    {
+        "DLP SPSS": "a31d8ba01b5a78d048b7da01dd4bcbdd"
+    },
+    {
+        "DLP SRH Cloud": "4efd79021b43b41014010e966e4bcb8c"
+    },
+    {
+        "DLP STARKILLER": "637c4f6c1b1a78d048b7da01dd4bcb52"
+    },
+    {
+        "DLP Systar": "e26c836c1b1a78d048b7da01dd4bcb36"
+    },
+    {
+        "DLP Tableau Software": "eebc4bec1b1a78d048b7da01dd4bcb81"
+    },
+    {
+        "DLP TALEND": "eacc03201b5a78d048b7da01dd4bcbcc"
+    },
+    {
+        "DLP TALEND Enterprise": "212d8fa01b5a78d048b7da01dd4bcb73"
+    },
+    {
+        "DLP The HUB": "edfc0b601b5a78d048b7da01dd4bcbbb"
+    },
+    {
+        "DLP Ticket": "70bc47ec1b1a78d048b7da01dd4bcb23"
+    },
+    {
+        "DLP Ticket Linking Services": "eaac03ec1b1a78d048b7da01dd4bcbe0"
+    },
+    {
+        "DLP Tilt": "2afc8b601b5a78d048b7da01dd4bcb95"
+    },
+    {
+        "DLP TIP": "f65c8b2c1b1a78d048b7da01dd4bcb5b"
+    },
+    {
+        "DLP Tivoli Monitoring": "84cccbec1b1a78d048b7da01dd4bcbf6"
+    },
+    {
+        "DLP Traçabilité alimentaire": "6cac0fac1b1a78d048b7da01dd4bcbf9"
+    },
+    {
+        "DLP Traka": "ed1dc7a01b5a78d048b7da01dd4bcb99"
+    },
+    {
+        "DLP TSM": "0e5c4b2c1b1a78d048b7da01dd4bcb70"
+    },
+    {
+        "DLP UNIJOB": "f6ec43601b5a78d048b7da01dd4bcb32"
+    },
+    {
+        "DLP Univiewer": "b0bc47ec1b1a78d048b7da01dd4bcb65"
+    },
+    {
+        "DLP Visit Park": "822dcfa01b5a78d048b7da01dd4bcb09"
+    },
+    {
+        "DLP VMware Infrastructure": "e3bccbec1b1a78d048b7da01dd4bcb04"
+    },
+    {
+        "DLP VOICE 8770": "ed5cc72c1b1a78d048b7da01dd4bcbc3"
+    },
+    {
+        "DLP VOICE IVR 5000": "b78c47ac1b1a78d048b7da01dd4bcbd2"
+    },
+    {
+        "DLP VOICE MAIL": "2dbc87ec1b1a78d048b7da01dd4bcbcb"
+    },
+    {
+        "DLP VOICE SOFTPHONE": "b52d8fa01b5a78d048b7da01dd4bcbc5"
+    },
+    {
+        "DLP WAS": "c4dcc3201b5a78d048b7da01dd4bcb10"
+    },
+    {
+        "DLP WebMan": "b92d8fa01b5a78d048b7da01dd4bcbb5"
+    },
+    {
+        "DLP WMQ": "206ccf2c1b1a78d048b7da01dd4bcb6a"
+    },
+    {
+        "DLP Worklife": "aa0d83a01b5a78d048b7da01dd4bcb4f"
+    },
+    {
+        "DLP WSUS": "ecec0f201b5a78d048b7da01dd4bcb4d"
+    },
+    {
+        "DLP YourCegid Fiscalité": "035c8b2c1b1a78d048b7da01dd4bcb65"
+    },
+    {
+        "DLP-Primera-DCH1": "d283e1f1c38a7118afefd0f4e4013174"
+    },
+    {
+        "DLP-Primera-DCH2": "9683e1f1c38a7118afefd0f4e401317d"
+    },
+    {
+        "DLP-Primera-GEN1": "1683e1f1c38a7118afefd0f4e4013177"
+    },
+    {
+        "DLP-Primera-GEN2": "5683e1f1c38a7118afefd0f4e401317a"
+    },
+    {
+        "DLPaaP.GLX": "755c0b2c1b1a78d048b7da01dd4bcbb5"
+    },
+    {
+        "DLPaaP.GusDuk": "9ffc0f601b5a78d048b7da01dd4bcb85"
+    },
+    {
+        "DLPaaP.OOC": "e97cc76c1b1a78d048b7da01dd4bcb14"
+    },
+    {
+        "DLPaaP.TBX": "5a0d83a01b5a78d048b7da01dd4bcb3d"
+    },
+    {
+        "DLPaaP.WFM": "018c83ac1b1a78d048b7da01dd4bcb2d"
+    },
+    {
+        "DLPaaP.WifiBridge": "e8ec0f201b5a78d048b7da01dd4bcb4b"
+    }
+]
