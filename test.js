@@ -29,7 +29,7 @@ function creatInc() {
         state: "10",
         assignment_group: "284922e213532bc4f9c274c66144b0e6",
         short_description: document.querySelector("#infos > table > tbody > tr:nth-child(1) > td:nth-child(2)").innerHTML.replace(/<\/?b>/g, ''),
-        description: document.querySelector("#infos > table > tbody > tr:nth-child(1) > td:nth-child(2)").innerHTML
+        description: document.querySelector("#titre").innerText
     };
 
     const baseUrl = "https://disney.service-now.com";
