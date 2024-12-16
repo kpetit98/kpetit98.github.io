@@ -1,14 +1,7 @@
 {
-    "Test" : [
-        {
+    "PRB" : {
             "Numéro du PRB": "PRB0068888",
             "CI du PRB": "DLP Tivoli Monitoring",
             "Description du PRB" : "Agent Tivoli instables"
-        },
-        {
-            "Numéro du PRB": "PRB0064505",
-            "CI du PRB": "DLP Tilt",
-            "Description du PRB" : "Test"
-        }
-    ]
+    }
 }
