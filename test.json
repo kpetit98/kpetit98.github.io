@@ -1,4 +1,14 @@
 {
-    "DLP Active Directory": "0ebc0bec1b1a78d048b7da01dd4bcbcc",
-    "DLP Test": "0ebc0bec1b1a78d048b7da01dd4bcbcc",
+    "Test" : [
+        {
+            "Numéro du PRB": "PRB0068888",
+            "CI du PRB": "DLP Tivoli Monitoring",
+            "Description du PRB" : "Agent Tivoli instables"
+        },
+        {
+            "Numéro du PRB": "PRB0064505",
+            "CI du PRB": "DLP Tilt",
+            "Description du PRB" : "Test"
+        }
+    ]
 }
